@@ -1,5 +1,7 @@
 <template>
-    <h2>Login Page</h2>
+    <div>
+        <div class="jumbotron bg-primary text-white"></div>
+    </div>
 </template>
 
 <script>
